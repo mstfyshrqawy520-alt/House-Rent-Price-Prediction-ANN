@@ -1,8 +1,4 @@
-<head>
-  <meta charset="utf-8">
-  <title>🏠 House Rent Price Prediction — ANN</title>
-</head>
-<body>
+
   <div align="center">
     <h1>🏠 House Rent Price Prediction</h1>
     <h3>Artificial Neural Network (ANN) — End-to-End Regression System</h3>
