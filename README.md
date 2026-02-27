@@ -1,5 +1,3 @@
-<!doctype html>
-<html>
 <head>
   <meta charset="utf-8">
   <title>🏠 House Rent Price Prediction — ANN</title>
@@ -40,28 +38,11 @@
     <li>R² (Coefficient of Determination)</li>
   </ul>
 
-  <h2>📂 Project Structure (suggested)</h2>
-  <pre>
-house-rent-ann/
-│
-├── House_Rent_Dataset.csv            # raw dataset (or provide a data link)
-├── House_rent_by_ANN.ipynb           # main notebook (EDA, preprocessing, training, evaluation)
-├── src/
-│   ├── data_processing.py            # data cleaning & feature engineering functions
-│   ├── model_builder.py              # ANN architecture builder
-│   ├── train.py                      # training script (CLI)
-│   └── inference.py                  # load model + scaler + predict function
-├── artifacts/
-│   ├── rent_ann_model.h5             # saved Keras model
-│   └── scaler.pkl                    # saved scaler (StandardScaler / MinMax)
-├── results/
-│   ├── training_curve.png
-│   └── residuals_plot.png
-├── README.md
-└── requirements.txt
-  </pre>
 
-  <h2>⚙️ How to run (Local)</h2>
+
+
+
+ <h2>⚙️ How to run (Local)</h2>
   <ol>
     <li>Clone the repo:
       <pre>git clone &lt;repo-link&gt;
@@ -121,4 +102,4 @@ pip install -r requirements.txt</pre>
     <p>AI Engineer | Deep Learning | Applied ML</p>
   </div>
 </body>
-</html>
+
